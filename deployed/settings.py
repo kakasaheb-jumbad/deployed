@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'mwb+bccbd0&hll&kejmk+1icwwy#s-fwi*7=*82_)(=*rf7@ev'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['127.0.0.1','https://pracer.herokuapp.com/']
 
